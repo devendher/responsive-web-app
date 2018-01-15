@@ -1,0 +1,116 @@
+.navbar-inverse{
+	background-color:#ffffff  !important;
+	border-color:#ffffff  !important;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: #72C02C;
+   text-decoration: underline;
+
+}
+.navbar-inverse .navbar-nav>.active>a{
+	color: #72C02C;
+   text-decoration: underline;
+   background-color:#ffffff  !important;
+}
+.manageList{
+	line-height: 49px;
+}
+.faqHeader{
+	background: #C2C2C2;
+    text-align: center;
+    height: 80px;
+}
+.mrgn-top{
+	margin-top:20px;
+}
+.bgcolorTab{
+	background-color: #585F69;
+	color:#ffffff ;
+	border: 1px solid #ffffff ;
+	height: 185px;
+}
+.about-details{
+	margin-right: 10%;
+    margin-left: 10%;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+	color:#ffffff ;
+	background-color: #72C02C;
+}
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:hover{
+	color: #72C02C;
+	background-color: #555555;
+}
+.nav-pills>li>a{
+	border-radius: 0px !important;
+	color:#555555;
+}
+hr {
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    border: 0;
+    border-top: 1px solid #72C02C;
+    }
+.border_Line{
+	border-bottom: 1px solid #72C02C;
+}
+.collapseable_data{
+	border:1px solid #80808052;
+	padding:9px;
+}
+.popular_topics{
+	font-size: 17px;
+    border-bottom: 1px solid #72C02C;
+    line-height: 56px
+}
+.glyphicon-chevron-right{
+	font-size: 11px;
+    color: #72C02C;
+}
+.service_now_community{
+	 color: #72C02C;
+	 font-size: 17px;
+}
+.text_about{
+	text-align: center;
+	border-bottom: 1px solid  #72C02C;
+}
+.details_text{
+	text-align: center;
+}
+.icon_img{
+	line-height: 49px;
+}
+.bgcolorTab1{
+	background-color: #585F69;
+	color:#ffffff ;
+	height: 185px;
+}
+
+.bgcolorTab2{
+	background-color: #707780;
+	color:#ffffff ;
+	height: 185px;
+}
+
+.bgcolorTab3{
+	background-color: #787F88;
+	color:#ffffff ;
+	height: 185px;
+}
+.copyright{
+	background-color: #585F69;
+}
+..navbar-toggle{
+	background-color: #72C02C;
+	border: 1px solid #72C02C;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+	background-color: #72C02C;
+	border: 1px solid #72C02C;
+}
+.navbar-inverse .navbar-toggle{
+	background-color: #72C02C;
+	border: 1px solid #72C02C;
+}
